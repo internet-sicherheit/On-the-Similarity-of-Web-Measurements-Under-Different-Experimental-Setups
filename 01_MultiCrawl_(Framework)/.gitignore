@@ -1,0 +1,15 @@
+!.config/*
+Extension
+.vscode/*
+openwpm/*
+firefox-bin/*
+__pycache__/*
+.vscode/* 
+profiles/chrome/*
+profiles/openwpm/*
+profiles/*
+datadir/*
+Extension/*
+resources/google.json
+scripts/*
+scripts

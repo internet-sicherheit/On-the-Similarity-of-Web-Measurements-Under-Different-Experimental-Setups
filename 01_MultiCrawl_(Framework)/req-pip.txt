@@ -1,0 +1,17 @@
+selenium
+selenium-wire
+psycopg2
+tldextract
+google-cloud-bigquery
+pycryptodome
+plyvel
+chrome_cookiejar
+func-timeout
+pyre2
+adblockparser
+google-cloud-bigquery-storage
+pandas
+pyarrow
+sklearn
+seaborn
+crypto
