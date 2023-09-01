@@ -1,6 +1,6 @@
 # On the Similarity of Web Measurements Under Different Experimental Setups
 
-This repository holds additional material to the paper "On the Similarity of Web Measurements Under Different Experimental Setups" which is submitted to *ACM Internet Measurement Conference 2023 (IMC)*.
+This repository contains additional material to the paper "On the Similarity of Web Measurements Under Different Experimental Setups," accepted at the *ACM Internet Measurement Conference 2023 (IMC)*.
 
 ## Repository Structure
 
